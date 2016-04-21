@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Pinball Wizard</string>
+    <string name="zipCodeHint">Enter your zip code</string>
+    <string name="highScoresTitle">High Scores</string>
+    <string name="zipCodeTitle">Search high scores near you</string>
+    <string name="playButtonText">Play</string>
+    <string name="highScoresButtonText">High scores</string>
+    <string name="signUpButtonText">Sign up</string>
+    <string name="or">OR</string>
 </resources>
