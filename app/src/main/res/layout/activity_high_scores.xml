@@ -48,7 +48,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="View all high scores"
+        android:text="@string/allHighScoresButtonText"
         android:id="@+id/allHighScoresButton"
         android:layout_above="@+id/textView4"
         android:layout_centerHorizontal="true"

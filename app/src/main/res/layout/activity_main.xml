@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/highScoresButtonText"
-        android:id="@+id/highscoresButton"
+        android:id="@+id/highScoresButton"
         android:layout_marginTop="350dp" />
 
     <Button
